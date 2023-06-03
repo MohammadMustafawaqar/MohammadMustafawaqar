@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadMustafawaqar
 - 👀 I’m interested in learning Web - Developement
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning WordPress
 - 📫 How to reach me Email: Mustafawaqar488@gmail.com
 
 <!---
