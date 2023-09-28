@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadMustafawaqar
-- 👀 I’m interested in learning Web - Developement
-- 🌱 I’m currently learning WordPress
+- 👀 I am Web and Database developer
+- 🌱 My expertise: Laravel, React, Vue, Oracle, PosgtreSQL, SQL Server, MySQL, Wordpress, ...
 - 📫 How to reach me Email: Mustafawaqar488@gmail.com
 
 <!---
